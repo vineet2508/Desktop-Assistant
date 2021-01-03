@@ -1,0 +1,8 @@
+MODULE NAME		COMMAND
+
+SpeechRecognition 3.8.1  =>  pip install SpeechRecognition
+pyttsx3 2.90 =>  pip install pyttsx3
+pywhatkit 3.8 = >  pip install pywhatkit
+wikipedia 1.4.0 => pip install wikipedia 
+pyjokes 0.6.0 => pip install pyjokes
+
